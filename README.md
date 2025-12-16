@@ -114,7 +114,7 @@ Results-driven Software Engineer with a Bachelor's degree in Software Engineerin
 
 ---
 
-## Contact Information
+## Contact 
 
 <div align="center">
 
