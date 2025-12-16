@@ -11,7 +11,7 @@
 
 </div>
 
-## Professional Summary
+##  Summary
 
 Results-driven Software Engineer with a Bachelor's degree in Software Engineering from Taiz University, Faculty of Engineering and Information Technology. Specialized in developing scalable, high-performance applications across web, mobile, and desktop platforms. Proficient in multiple programming paradigms with expertise in full-stack development, data science, and database management.
 
@@ -67,7 +67,7 @@ Results-driven Software Engineer with a Bachelor's degree in Software Engineerin
 
 ---
 
-## Professional Skills
+##  Skills
 
 - **Full-Stack Development:** End-to-end application development
 - **Cross-Platform Development:** Web, Mobile (iOS/Android), Desktop applications
@@ -94,7 +94,7 @@ Results-driven Software Engineer with a Bachelor's degree in Software Engineerin
 
 ---
 
-## Professional Experience Highlights
+##  Experience Highlights
 
 - Developed scalable web applications using modern frameworks (React, Next.js, Laravel)
 - Implemented machine learning models for data analysis and prediction systems
@@ -127,7 +127,7 @@ Results-driven Software Engineer with a Bachelor's degree in Software Engineerin
 
 ---
 
-## Professional Philosophy
+##  Philosophy
 
 > "Engineering elegant solutions to complex problems through clean code, systematic thinking, and continuous learning. Committed to delivering robust, scalable software that drives innovation and creates tangible value."
 
